@@ -34,12 +34,12 @@ Make sure you have a basic understanding of HTML, CSS, and JavaScript.
    const texts = ["Welcome to Auto Typing Animation!", "Create dynamic web content.", "Engage your audience with animated text."];
    ```
 
-3. Adjust the typing speed by modifying the `typingSpeed` variable in the JavaScript code:
+3. Adjust the typing speed by modifying the `typing speed` variable in the JavaScript code:
    ```javascript
-   const typingSpeed = 100; // in milliseconds
+   const typing speed = 100; // in milliseconds
    ```
 
-4. Save the changes and refresh the browser to see the updated auto typing animation.
+4. Save the changes and refresh the browser to see the updated auto-typing animation.
 
 ## Customization
 Feel free to customize the styles in the `styles.css` file to match your project's design. You can modify the font, colors, and other visual aspects to seamlessly integrate the auto typing animation into your web page.
