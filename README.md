@@ -17,7 +17,7 @@ Make sure you have a basic understanding of HTML, CSS, and JavaScript.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/auto-typing-animation.git
+   git clone https://github.com/abdul-1432/Auto-Typing-Animation
    ```
 
 2. Navigate to the project directory:
